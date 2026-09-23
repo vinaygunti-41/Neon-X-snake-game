@@ -103,7 +103,7 @@ Neon-X-snake-game/
   <img src="https://placehold.co/1000x550/020402/39FF14?text=Neon-X+Snake+Game+Preview" />
 </p>
 
-> Replace this image with your actual game screenshot.
+ https://github.com/user-attachments/assets/26c53db6-ff97-4507-8029-044ad32f18fc
 
 ---
 
